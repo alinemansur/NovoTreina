@@ -1,0 +1,3 @@
+//inicio do arquivo...
+setInterval(trocaBanner, 1000);
+setInterval2(trocaBanner, 5000);
